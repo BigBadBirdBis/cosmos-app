@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UL+zMsHpmjaDtRuVv5Szck2ddytVUpgmX0U/0zXy0fU=",
+  "Source": "cosmos",
+  "BasePath": "_content/cosmos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
